@@ -1,0 +1,91 @@
+{
+  "item.tutorialmod.citrine": "Citrine",
+  "item.tutorialmod.raw_citrine": "Raw Citrine",
+
+  "item.tutorialmod.dowsing_rod": "Downsing Rod",
+  "item.tutorialmod.dowsing_rod.no_valuables": "No valuables found!",
+  "tooltip.tutorialmod.dowsing_rod.tooltip.shift": "Right Click to find Valuables",
+  "tooltip.tutorialmod.dowsing_rod.tooltip": "Press §eSHIFT§r for more Information!",
+
+  "item.tutorialmod.regen_orb": "Regen Orb",
+
+  "item.tutorialmod.egg_plant": "Egg Plant",
+  "item.tutorialmod.eggplant_seeds": "Egg Plant Seeds",
+  "block.tutorialmod.eggplant_plant": "Egg Plant Plant",
+
+  "item.tutorialmod.coal_coke": "Coal Coke",
+
+  "item.tutorialmod.magic_dust": "Magic Dust",
+  "item.tutorialmod.data_tablet": "Data Tablet",
+  "item.tutorialmod.kaupenbow": "Kaupenbow",
+
+  "item.tutorialmod.citrine_sword": "Citrine Sword",
+  "item.tutorialmod.citrine_pickaxe": "Citrine Pickaxe",
+  "item.tutorialmod.citrine_shovel": "Citrine Shovel",
+  "item.tutorialmod.citrine_axe": "Citrine Axe",
+  "item.tutorialmod.citrine_hoe": "Citrine Hoe",
+
+  "item.tutorialmod.long_sword": "Long Sword",
+
+  "item.tutorialmod.citrine_helmet": "Citrine Helmet",
+  "item.tutorialmod.citrine_chestplate": "Citrine Chestplate",
+  "item.tutorialmod.citrine_leggings": "Citrine Leggings",
+  "item.tutorialmod.citrine_boots": "Citrine Boots",
+
+  "block.tutorialmod.citrine_block": "Citrine Block",
+  "block.tutorialmod.citrine_ore": "Citrine Ore",
+  "block.tutorialmod.deepslate_citrine_ore": "Deepslate Citrine Block",
+  "block.tutorialmod.endstone_citrine_ore": "Endstone Citrine Block",
+  "block.tutorialmod.netherrack_citrine_ore": "Netherrack Citrine Block",
+  "block.tutorialmod.raw_citrine_block": "Raw Citrine Block",
+
+  "block.tutorialmod.winter_window": "Winter Window",
+
+  "block.tutorialmod.citrine_lamp": "Citrine Lamp",
+
+  "block.tutorialmod.citrine_stairs": "Citrine Stairs",
+  "block.tutorialmod.citrine_slab": "Citrine Slab",
+  "block.tutorialmod.citrine_fence": "Citrine Fence",
+  "block.tutorialmod.citrine_fence_gate": "Citrine Fence Gate",
+  "block.tutorialmod.citrine_wall": "Citrine Wall",
+
+  "block.tutorialmod.citrine_button": "Citrine Button",
+  "block.tutorialmod.citrine_pressure_plate": "Citrine Pressure Plate",
+  "block.tutorialmod.ebony_door": "Ebony Door",
+  "block.tutorialmod.ebony_trapdoor": "Ebony Trapdoor",
+
+  "block.tutorialmod.pink_rose": "Pink Rose",
+  "block.tutorialmod.potted_pink_rose": "Potted Pink Rose",
+
+  "block.tutorialmod.speedy_block": "Speedy Block",
+  "tooltip.tutorialmod.block.speedy_block": "I am SPEED!",
+
+  "itemGroup.tutorial_tab": "Tutorial Mod",
+  "itemGroup.equipment_tab": "Equipment Mod",
+
+  "sounds.tutorialmod.dowsing_rod_found_ore": "Dowsing rod found item",
+
+  "item.tutorialmod.bar_brawl_music_disc": "Bar Brawl",
+  "item.tutorialmod.bar_brawl_music_disc.desc": "Bryan Tech - Bar Brawl (CC0)",
+
+  "block.tutorialmod.ebony_log": "Ebony Log",
+  "block.tutorialmod.ebony_wood": "Ebony Wood",
+  "block.tutorialmod.ebony_planks": "Ebony Planks",
+  "block.tutorialmod.stripped_ebony_log": "Stripped Ebony Log",
+  "block.tutorialmod.stripped_ebony_wood": "Stripped Ebony Wood",
+  "block.tutorialmod.ebony_leaves": "Ebony Leaves",
+  "block.tutorialmod.ebony_sapling": "Ebony Sapling",
+
+  "effect.tutorialmod.freeze": "Freeze",
+  "item.minecraft.potion.effect.freeze_potion": "Freeze Potion",
+  "item.minecraft.splash_potion.effect.freeze_potion": "Splash Potion of Freeze",
+  "item.minecraft.lingering_potion.effect.freeze_potion": "Lingering Potion of Freeze",
+  "item.tutorialmod.citrine_staff": "Citrine Staff",
+
+  "block.tutorialmod.gem_cutting_station": "Gem Cutting Station",
+  "item.tutorialmod.gem_cutter_tool": "Gem Cutter Tool",
+  "block.tutorialmod.ebony_sign": "Ebony Sign",
+  "item.tutorialmod.honey_bucket": "Honey Bucket",
+  "enchantment.tutorialmod.lightning_striker": "Lightning Striker",
+  "item.tutorialmod.raccoon_spawn_egg": "Raccoon Spawn Egg"
+}

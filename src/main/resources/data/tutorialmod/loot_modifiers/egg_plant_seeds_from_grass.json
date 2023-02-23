@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:grass"
+    }
+  ],
+  "addition": "tutorialmod:eggplant_seeds",
+  "type": "tutorialmod:egg_plant_seeds_from_grass"
+}
